@@ -2,7 +2,7 @@
 
 ## About
 
-Open video files, access the contents frame-by-frame and modify them at the pixel level,create a collage.
+Open video files, access the contents frame-by-frame and modify them at the pixel level, create a collage.
 
 ## Requirements
 
